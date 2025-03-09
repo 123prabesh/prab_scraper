@@ -32,7 +32,7 @@ This C program is a simple web scraper that downloads images from a structured U
   The program does not handle dynamic web pages or JavaScript-based content.  
   Only works with publicly accessible URLs.
 
-##**License**  
+### License
 This project is for educational purposes only. Modify and use at your own risk.  
 
 
