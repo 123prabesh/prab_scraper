@@ -30,7 +30,7 @@ This C program is a simple web scraper that downloads images from a structured U
       max_fails sets the limit of consecutive failures before stopping.
 ##**Limitations**
   The program does not handle dynamic web pages or JavaScript-based content.  
-  Only works with publicly accessible URLs.  
+  Only works with publicly accessible URLs.
 
 ##**License**
 This project is for educational purposes only. Modify and use at your own risk.  
