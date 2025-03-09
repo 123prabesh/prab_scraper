@@ -27,7 +27,7 @@ This C program is a simple web scraper that downloads images from a structured U
       Adjust scanning limits:  
       max_albums controls how many albums to scan.  
       max_images controls the max images per album.  
-      max_fails sets the limit of consecutive failures before stopping.  
+      max_fails sets the limit of consecutive failures before stopping.
 ##**Limitations**
   The program does not handle dynamic web pages or JavaScript-based content.  
   Only works with publicly accessible URLs.  
